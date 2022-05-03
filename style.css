@@ -1,0 +1,91 @@
+#kontener{
+  padding: 30px;
+  width: 960px;
+  margin: 0 auto;
+  background-color: #F0F8FF;
+}
+
+#naglowek{
+  padding: 30px;
+  margin: 10px;
+  border: 1px solid black;
+  background-color: #778899;
+}
+
+.kolumnafoto{
+  float: left;
+  display: flex;
+  align-items: center; 
+  margin: 10px;
+  width: 350px;
+  height: 350px;
+  border: 1px solid black;
+}
+
+.foto{
+  width: 350px;
+  height: 350px;
+}
+
+.kolumnatekst{
+  float: left;
+  display: flex;
+  align-items: center; 
+  padding: 20px;
+  margin: 10px;
+  width: 525px;
+  height: 310px;
+  border: 1px solid black;
+  background-color: #B0D4DE;
+}
+
+#clear{
+  clear: both;
+}
+
+#buttons{
+  margin: 10px;
+  width: 936px;
+  background-color:  #F0F8FF;
+}
+
+#napis{
+  margin: 10px;
+  width: 936px;
+  border: 1px solid black;
+  background-color: #CCCCCC;
+}
+
+h1{
+  font-family: Garamond; 
+  font-size: 50px;
+  color: black;  
+  text-align: center;
+}
+
+h2{
+  font-family: Garamond; 
+  font-size: 45px;
+  color: black;  
+  text-align: center;
+}
+  
+h3{
+  font-family: Garamond; 
+  font-size: 28px;
+  color: black;  
+  text-align: justify;
+  font-weight: lighter;
+}
+
+p{
+ font-family: Garamond; 
+ font-size: 30px;
+ color: black;  
+ text-align: justify;
+}
+
+.submit{
+  background: #778899;
+  font-weight: 600;
+}
