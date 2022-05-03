@@ -1,0 +1,227 @@
+<html>
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>Pieniny</title>
+  <meta name="description" content="Pieniny">
+  <meta name="author" content="Paulina Malgorzata Marucha">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+ <body>
+  <div id="kontener">
+    <div id="naglowek">
+      <center> <h1> Zagłosuj na najlepszą atrakcję Pienin &#127748; </h1>
+      </center>
+      <center> <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10382.390825077644!2d20.391226634272265!3d49.4165130289958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473e038b0b9bf87d%3A0x8567d14e5366c40!2sPieniny!5e0!3m2!1spl!2spl!4v1650202124245!5m2!1spl!2spl" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> </iframe>
+      </center>
+      <br>
+      <center> <p> Pieniny to  pasmo górskie w łańcuchu Karpat, położone w południowej Polsce
+i północnej Słowacji. Zlokalizowane są na północny wschód od Tatr,
+około 30 km od Nowego Sącza. 
+Pieniny są jednym z najatrakcyjniejszych regionów turystycznych w Polsce. 
+Pod względem liczby turystów zajmują w Polsce drugie po Tatrach miejsce. 
+      </p> </center>
+      <h2> <strong> Oto lista &#127942; TOP 10 &#127942; atrakcji Pienin: </strong> </h2>
+    </div>
+    
+    <div class="kolumnafoto"><img class="foto" src="https://climb.pl/wp-content/uploads/2020/04/57e1d1464e57ab14f6da8c7dda213f791d3fdbe44e507441722b7bd2934dc5_12801.jpg">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9312;NAJBARDZIEJ SPEKTAKULARNY SZCZYT W PIENINACH - TRZY KORONY.
+Trzy Korony to miejsce bardzo atrakcyjne oraz licznie odwiedzane. Charakterystyczną skalną koronę tworzy pięć turni szczytowych. Najwyższa z nich to Okrąglica, licząca 983 metrów, na której znajduje się platforma widokowa, z której rozciąga się wspaniały widok na Pieniny. </h3>
+    </div>
+       
+    <div class="kolumnafoto"><img class="foto" src="https://meteor-turystyka.pl/images/places/0/378.jpg" alt="Widok na Wąwóz Homole.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9313; NAJPIĘKNIEJSZY KANION W POLSCE - WĄWÓZ HOMOLE.
+      <br>
+Wąwóz Homole to głęboki kanion o bardzo stromych ścianach dochodzących do 120 metrów wysokości i 800 metrów długości. Jego dnem płynie potok Kamionka tworząca atrakcyjne kaskady. Jest atrakcyjny o każdej porze roku. </h3>
+    </div>
+                
+    <div class="kolumnafoto"><img class="foto" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Bia%C5%82a_Woda_a1.jpg" alt=" Widok na Rezerwat Biała Woda.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9314; REZERWAT BIAŁA WODA.
+      <br>
+        W rezerwacie Biała Woda utworzonym w 1963 roku można zobaczyć  oryginalne skały i turnie, takie jak: Czerwona Skałka - z powodu osobliwego kształtu zwana też Skałą Sfinks oraz Smolegowa Skała - widziana z góry ma charakterystyczny kształt przypominający grzbiet dinozaura. </h3>
+    </div>
+
+    <div class="kolumnafoto"> <img class="foto" src="https://mapio.net/images-p/5235604.jpg" alt=" Widok na skały w kształcie ksiąg.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9315; KAMIENNE KSIĘGI.
+      <br>
+Kamienne księgi to płaskie skały naturalnie ułożone w formie otwartej książki, według legendy zapisane są w nich losy wszystkich ludzi na świecie. Zaszyfrowane pismo odczytał jedynie stary pop z Wielkiego Lipnika, ale Pan Bóg odebrał mu mowę, żeby ludzie nie mogli poznać swoich losów. </h3>
+    </div>
+
+    <div class="kolumnafoto"> <img class="foto" src="https://kgp.info.pl/wp-content/uploads/2021/04/Daniel-Jedrzejewski-scaled.jpg" alt=" Widok na najwyższy szczyt Pienin.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9316; NAJWYŻSZY SZCZYT PIENIN. 
+      <br>
+Wysoka, Wysokie Skałki (słow. Vysoké Skalky, 1050 metrów) to najwyższy szczyt Pienin, położony jest na granicy polsko-słowackiej. Południowe stoki należą do słowackiego Pienińskiego Parku Narodowego, natomiast stoki północno - zachodnie do rezerwatu przyrody Wysokie Skałki. Góra zaliczana jest do Korony Gór Polski. </h3>
+    </div>
+
+    <div class="kolumnafoto"> <img class="foto" src="https://www.pieniny.com.pl/_images/pieniny/800/2d[1].jpg" alt=" Widok na Pieniński Zamek.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9317; PIENIŃSKI ZAMEK.
+      <br>
+Ze znajdującym się na Górze Zamkowej Pienińskim Zamkiem wiąże się kilka ciekawostek. Święta Kinga wraz z zakonnicami z klasztoru w Starym Sączu schroniła się tu przed Tatarami, na pamiątkę powstała tu Grota Świętej Kingi. Przed I wojną światową w ruinach zamku powstała Pustelnia Pienińska. Do 1949 roku mieszkał tu prawdziwy pustelnik. </h3>
+    </div>
+
+    <div class="kolumnafoto"> <img class="foto" src="https://tamideblog.pl/wp-content/uploads/2019/08/DSC_8349.jpg" alt=" Widok na Przełom Dunajca.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9318; SPŁYW DUNAJCEM.
+      <br>
+Oryginalna i bardzo komfortowa forma zwiedzania Pienińskiego Parku Narodowego. Podczas kilkugodzinnego spływu można zobaczyć najpiękniejszą część Pienin, jaką jest Przełom Dunajca oraz słynne przewężenie rzeki Janosikowy Skok. </h3>       </div>
+
+    <div class="kolumnafoto"> <img class="foto" src="https://beztroskiewczasy.pl/wp-content/uploads/2015/08/IMG_2210.jpg" alt=" Widok na Zamek w Niedzicy.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9319; ZAMEK  W NIEDZICY.
+      <br>
+Zamek w Niedzicy, zwany też Zamek Dunajec to średniowieczna warownia wzniesiona na początku XIV wieku przez Kokosza Berzeviczego. Z zamkiem związana jest legenda o ukrytym tu skarbie Inków, podobno w 1946 roku znaleziono tu inkaskie kipu czyli pismo węzełkowe Inków. Obecnie mieści się tu muzeum historyczne. </h3>
+    </div>
+
+    <div class="kolumnafoto"> <img class="foto" src="https://www.pieninypn.pl/mfiles/992/28/0/f/mm_5_a_zamek_czorsztyn_2008.10.31_12_.jpg" alt=" Widok na Zamek gotycki w Czorsztynie.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9320; GOTYCKI ZAMEK W CZORSZTYNIE.
+      <br>
+Zamek w Czorsztynie został wzniesiony w XIV wieku.  Położony jest przy ważnej drodze handlowej i dyplomatycznej na Węgry. Pełnił rolę warowni, komory celnej, a później siedziby starostów. W 1996 roku ruiny Zamku Czorsztyn udostępniono do zwiedzania turystom. </h3>
+    </div>
+
+    <div class="kolumnafoto"> <img class="foto" src="https://wiadomosciwedkarskie.com.pl/static/files/inline_images/125/652793__6984.jpg" alt="Aktywne spędzanie czasu na Jeziorze Czorsztyńskim.">
+    </div>
+    <div class="kolumnatekst"> <h3> &#9321; JEZIORO CZORSZTYŃSKIE.
+      <br>
+Jezioro Czorsztyńskie oprócz swojej praktycznej funkcji ochrony przeciwpowodziowej jest także ogromną atrakcją turystyczną. Latem służy jako kąpielisko i miejsce do żeglowania. Popularne są również rejsy statkami. Można też popływać gondolami - wycieczka dookoła jeziora trwa około 40 minut, a widoki i wrażenia są niezapomniane! </h3> 
+    </div>
+       
+    <div id="clear"> </div>
+  
+    <div id="napis"> <h2> &#10071; Zagłosuj na najlepszą atrakcję Pienin &#10071; &#129351; </h2>
+    </div>
+              
+    <div id="buttons">
+      <br>
+        <form action="https://freecatphotoapp.com/submit-cat-photo"> 
+          <fieldset> 
+            <legend> Byłaś/Byłeś w Pieninach? </legend>
+              <label for="tak"> <input id="tak" type="radio" name="w"> Oczywiście, że tak ! </label>
+              <label for="nie"> <input id="nie" type="radio" name="w"> Niestety, jeszcze nie. </label>
+              <br>
+          </fieldset>
+          
+          <fieldset>
+            <legend> Zagłosuj na najlepszą atrakcję! </legend>
+              <label for="1"> <input id="1" type="radio" name="atrakcja"> 1 </label>
+              <label for="2"> <input id="2" type="radio" name="atrakcja"> 2 </label>
+              <label for="3"> <input id="3" type="radio" name="atrakcja"> 3 </label>
+              <label for="4"> <input id="4" type="radio" name="atrakcja"> 4 </label>
+              <label for="5"> <input id="5" type="radio" name="atrakcja"> 5 </label>
+              <label for="6"> <input id="6" type="radio" name="atrakcja"> 6 </label>
+              <label for="7"> <input id="7" type="radio" name="atrakcja"> 7 </label>
+              <label for="8"> <input id="8" type="radio" name="atrakcja"> 8 </label>
+              <label for="9"> <input id="9" type="radio" name="atrakcja"> 9 </label>
+              <label for="10"> <input id="10" type="radio" name="atrakcja"> 10 </label>
+          </fieldset>
+            <br>
+          <label for="email"> Email: </label> <input type="text" id="email" name="email">
+          <input class="submit" type="submit" name="submit" value="Zagłosuj" >
+        </form>
+    </div>     
+  </body>
+</html>
+
+
+
+<css>
+#kontener{
+  padding: 30px;
+  width: 960px;
+  margin: 0 auto;
+  background-color: #F0F8FF;
+}
+
+#naglowek{
+  padding: 30px;
+  margin: 10px;
+  border: 1px solid black;
+  background-color: #778899;
+}
+
+.kolumnafoto{
+  float: left;
+  display: flex;
+  align-items: center; 
+  margin: 10px;
+  width: 350px;
+  height: 350px;
+  border: 1px solid black;
+}
+
+.foto{
+  width: 350px;
+  height: 350px;
+}
+
+.kolumnatekst{
+  float: left;
+  display: flex;
+  align-items: center; 
+  padding: 20px;
+  margin: 10px;
+  width: 525px;
+  height: 310px;
+  border: 1px solid black;
+  background-color: #B0D4DE;
+}
+
+#clear{
+  clear: both;
+}
+
+#buttons{
+  margin: 10px;
+  width: 936px;
+  background-color:  #F0F8FF;
+}
+
+#napis{
+  margin: 10px;
+  width: 936px;
+  border: 1px solid black;
+  background-color: #CCCCCC;
+}
+
+h1{
+  font-family: Garamond; 
+  font-size: 50px;
+  color: black;  
+  text-align: center;
+}
+
+h2{
+  font-family: Garamond; 
+  font-size: 45px;
+  color: black;  
+  text-align: center;
+}
+  
+h3{
+  font-family: Garamond; 
+  font-size: 28px;
+  color: black;  
+  text-align: justify;
+  font-weight: lighter;
+}
+
+p{
+ font-family: Garamond; 
+ font-size: 30px;
+ color: black;  
+ text-align: justify;
+}
+
+.submit{
+  background: #778899;
+  font-weight: 600;
+}
+</css>
