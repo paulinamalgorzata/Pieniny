@@ -95,6 +95,7 @@ h1 {
   font-size: 50px;
   color: black;
   text-align: center;
+  letter-spacing: -2px;
 }
 
 h2 {
@@ -102,6 +103,7 @@ h2 {
   font-size: 46px;
   color: black;
   text-align: center;
+  letter-spacing: -2px;
 }
 
 h3 {
