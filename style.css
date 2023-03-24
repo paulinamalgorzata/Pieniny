@@ -50,9 +50,37 @@ body {
 }
 
 #buttons {
+  font-family: Garamond;
+  font-size: 38px;
   margin: 10px;
   width: 936px;
   background-color: #f0f8ff;
+}
+
+#buttons legend {
+  font-family: Garamond;
+  font-size: 42px;
+}
+
+#buttons input {
+  margin-left: 15px;
+}
+
+#email {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  width: 500px;
+}
+
+.submit {
+  background: #778899;
+  font-size: 36px;
+  padding: 10px 20px 10px 20px;
+  letter-spacing: 0.2px;
+  margin-right: 0px;
+  border-style: solid;
 }
 
 #napis {
@@ -71,7 +99,7 @@ h1 {
 
 h2 {
   font-family: Garamond;
-  font-size: 45px;
+  font-size: 46px;
   color: black;
   text-align: center;
 }
@@ -91,11 +119,7 @@ p {
   text-align: justify;
 }
 
-.submit {
-  background: #778899;
-  font-weight: 600;
-}
-
+/* style slidera*/
 .slider {
   width: 100vx;
   display: flex;
